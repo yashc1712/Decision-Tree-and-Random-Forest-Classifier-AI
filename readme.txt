@@ -1,7 +1,3 @@
-Student Information:
-Name: Yashkumar Chandwani
-UTA ID: 1002115885
-
 Programming Language:
 Python 3.12
 
